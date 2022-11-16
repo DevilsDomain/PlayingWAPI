@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "sv443-joke-api": "^0.1.0",
     "vue": "^3.2.41"
   },
   "devDependencies": {
